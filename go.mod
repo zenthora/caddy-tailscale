@@ -5,7 +5,7 @@ go 1.23.1
 toolchain go1.23.5
 
 require (
-	github.com/caddyserver/caddy/v2 v2.9.1
+	github.com/caddyserver/caddy/v2 v2.9.0
 	github.com/caddyserver/certmagic v0.21.6
 	github.com/google/go-cmp v0.6.0
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
